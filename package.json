@@ -22,5 +22,6 @@
     "@nuxt/icon": "^1.5.6",
     "@types/rss": "^0.0.32",
     "sass": "^1.79.5"
-  }
+  },
+  "packageManager": "pnpm@9.12.2"
 }
