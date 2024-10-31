@@ -1,0 +1,1 @@
+import{k as s,e as t,f as o,g as a,c as r}from"./DY8XPlMf.js";const _={},c={class:"main"};function n(f,e){return r(),t("div",c,e[0]||(e[0]=[o("p",null,[a("It looks like you're lost, "),o("a",{href:"/"},"go home")],-1)]))}const d=s(_,[["render",n],["__scopeId","data-v-bffb5288"]]);export{d as default};
